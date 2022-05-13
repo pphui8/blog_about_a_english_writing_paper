@@ -27,3 +27,50 @@
 
 将指代时间、数量的部分提前。
 
+## _5. place the most important subject at the beginning of the sentence_
+> Incorrect: Based on the triangulation structure built from unorganized points or a CAD model, the extended STL format is described in this section.
+
+> Correct: The extended STL format is described in this section based on the trangulation structure built from unorgnized points or a CAD model.
+
+把句子中的重要部分提前。
+
+## _6. "whitch / that"_
+`which` 指代不明确，导致句意模糊。 
+
+## _7. 'Respectively' and 'respective'_
+> 1. `Respectively` 放在了错误的位置，应该放在指代名词的后面。 
+
+> Incorrect: Equation 2 ~ 6 can be respectively linearized as: ...
+
+> Correct: Equation 2 ~ 6 can be linearized as:..., respectively.
+
+> 2. `Respectively` 在这表示了事情完成的顺序，但是顺序已经在句子中的其它地方体现过了。
+
+Respectively（分别地）: 两个或以上的人或物按照之前设计的顺序排列，如果给出两个列表，`respectively` 将以列表给出的顺序匹配这个列表。`respectively` 通常在句尾使用，强调给出事物顺序的重要性。
+
+## _8. 'In this paper' and 'in this study'_
+> Incorrect: In this paper, IDEAS was used to...
+
+> Correct: In this study, IDEAS was used to...
+
+不要过度使用 `in this paper`，在表达有关此文章的时候，应该更多地使用 `in this study` 来指代。
+
+## _9. Numbers and Equations_
+> Incorrect: `12` parameters were selected for the experiment.
+
+> Correct: `Twelve` parameters were selected for the experiment.
+
+> Incorrect: If the power battery `SOC > SOCln`, and...
+
+> Correct: If the power battery `SOC is greater than SOCln`, and...
+
+使用英文数字而不是阿拉伯数字，使用英文表达而不是直接使用大于/小于符号。
+
+## _10. Format_
+一些特殊符号、表达的书写方式不对。
+> Incorrect: Figure. 1 | Figure1 | Fig.1 | Tb6
+
+> Correct: Figure 1 | Fig. 1 | Tbl. 1
+
+## _11. 'such as' and 'etc.'_
+这两个词容易被错误地使用，
